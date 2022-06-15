@@ -16,5 +16,7 @@ Facebook navigation bar recreation
 
 ## Recreation  
 <img src="https://user-images.githubusercontent.com/3280206/173956020-3f7b84d7-7130-48de-9f2a-640ebb377720.png" width="500" >
+<img src="https://user-images.githubusercontent.com/3280206/173956391-3a2a7bb6-da3b-4d14-8652-c763dc9a2481.png" width="500" >
+
 
 
