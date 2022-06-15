@@ -1,4 +1,4 @@
-# CSS-microDaily-01
+# CSS-micro-daily-01
 Created with CodeSandbox
 
 First of daily css micro component practice
