@@ -2,6 +2,7 @@
 Created with CodeSandbox
 
 First of daily css micro component practice
+https://codesandbox.io/s/github/lrvaka/CSS-microDaily-01/tree/main
 Facebook navigation bar recreation
 
 ## Original   
