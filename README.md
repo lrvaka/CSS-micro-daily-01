@@ -3,3 +3,15 @@ Created with CodeSandbox
 
 First of daily css micro component practice
 Facebook navigation bar recreation
+
+## Original  
+
+
+## Original   
+<img src="https://user-images.githubusercontent.com/3280206/173955882-ce16c250-793f-44b0-959a-bc67e5f4ce5f.png" width="500" >
+
+
+## Recreation  
+<img src="https://user-images.githubusercontent.com/3280206/173956020-3f7b84d7-7130-48de-9f2a-640ebb377720.png" width="500" >
+
+
