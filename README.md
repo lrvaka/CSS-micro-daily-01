@@ -1,8 +1,8 @@
 # CSS-micro-daily-01
-Created with CodeSandbox
-
+Created with CodeSandbox  
+  
+https://codesandbox.io/s/github/lrvaka/CSS-microDaily-01/tree/main  
 First of daily css micro component practice
-https://codesandbox.io/s/github/lrvaka/CSS-microDaily-01/tree/main
 Facebook navigation bar recreation
 
 ## Original   
