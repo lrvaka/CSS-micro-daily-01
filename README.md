@@ -9,6 +9,9 @@ Facebook navigation bar recreation
 
 ## Original   
 <img src="https://user-images.githubusercontent.com/3280206/173955882-ce16c250-793f-44b0-959a-bc67e5f4ce5f.png" width="500" >
+<img src="https://user-images.githubusercontent.com/3280206/173956317-6db7a2d8-da9d-4360-bf59-ac007370fb1c.png" width="500" >
+
+
 
 
 ## Recreation  
